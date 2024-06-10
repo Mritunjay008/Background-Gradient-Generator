@@ -28,7 +28,7 @@ The Gradient Generator is a web-based tool that allows users to generate a linea
 No installation is necessary. Simply clone or download the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/gradient-generator.git
+git clone https://github.com/Mritunjay008/gradient-generator.git
 cd gradient-generator
 ```
 
